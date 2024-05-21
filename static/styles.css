@@ -309,3 +309,14 @@ form {
   margin-top: 2rem;
   margin-left: 2rem;
 }
+#white {
+  text-align: center;
+  background-color: white;
+  padding-top: 4rem;
+}
+#white p {
+  color: black!important;
+}
+#white h1 {
+  color: black;
+}
